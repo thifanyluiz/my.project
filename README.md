@@ -24,9 +24,24 @@ A aplicação permite:
 - Plotly Express
 - Streamlit
 
+## Visualizações
+
+### Distribuição dos preços
+
+Histograma utilizado para visualizar a distribuição dos preços dos veículos.
+
+### Preço por condição
+
+Boxplot utilizado para comparar a distribuição dos preços entre as diferentes condições dos veículos.
+
+### Preço e quilometragem
+
+Gráfico de dispersão utilizado para visualizar a relação entre o preço dos veículos e a quilometragem.
+
 ## Dados
 
 Os dados utilizados no projeto estão armazenados no arquivo `vehicles.csv`.
+
 
 ## Aplicação
 
