@@ -1,4 +1,5 @@
 # Análise de veículos
+**Aplicação online:** https://myproject-mtxknye8s8nzfwpssvgsdh.streamlit.app/
 
 Este projeto consiste em uma aplicação web desenvolvida com Streamlit para analisar um conjunto de dados de veículos.
 
