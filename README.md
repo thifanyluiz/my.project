@@ -1,6 +1,6 @@
 # Análise de veículos
 
-🚗 **Aplicação online:** https://myproject-mtxknye8s8nzfwpssvgsdh.streamlit.app/
+🚗 **Aplicação online:** https://my-project-fztb.onrender.com/
 
 ## Sobre o projeto
 
